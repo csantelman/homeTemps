@@ -21,17 +21,17 @@ js/app.js
 php/db_config.php
 - Contains the connection details for database
 
-current_history.php
-current_history_data.php
-garage_history.php
-garage_history_data.php
-inside_history.php
-inside_history_data.php
-outside_history_data.php
-outside_history.php
+current_history.php<br>
+current_history_data.php<br>
+garage_history.php<br>
+garage_history_data.php<br>
+inside_history.php<br>
+inside_history_data.php<br>
+outside_history_data.php<br>
+outside_history.php<br>
 - Page & data retrieval for highcharts graphs
 
-maps.html
+maps.html<br>
 weather.html
 - Test programs to work with google maps & open weather api's
 - Currently not used, just playing with them
