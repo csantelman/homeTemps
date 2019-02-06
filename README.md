@@ -43,6 +43,6 @@ CONCERNS AND QUESTIONS
 
 - Website security - having the connection details isolated to php/db_config.php is the only way I found to keep them out of all the other php files.  Is this correct?
 
-- This seems to me a very convaluted way to design a website.  All of the child pages (<name>_history.php) and their corresponding data-retireval page (<name>_history_data.php) share most of the same code.  Column names change between them, and some labels, among other things.  What would a better way to accomplish this be?
+- This seems to me a very convaluted way to design a website.  All of the child pages ('name'_history.php) and their corresponding data-retireval page ('name'_history_data.php) share most of the same code.  Column names change between them, and some labels, among other things.  What would a better way to accomplish this be?
 
 - Since this is just available in my home network (not exposed to the internet) - if I wanted to have a button on the page insert a row into the database - should ajax be used?  Should this have been ajax based vs. php?
